@@ -1,0 +1,6 @@
+{
+  "name": "Proyecto Matafuego",
+  "description": "Proyecto Matafuego - Gestión para gimnacios",
+  "repository": "https://github.com/valentinPeluso/matafuego.git",
+  "keywords": ["node", "express", "heroku"]
+}

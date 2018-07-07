@@ -1,0 +1,25 @@
+{
+  "name": "matafuego",
+  "version": "1.0.0",
+  "description": "Proyecto Matafuego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinPeluso/matafuego.git"
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "author": "Valentin Peluso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinPeluso/matafuego/issues"
+  },
+  "homepage": "https://github.com/valentinPeluso/matafuego#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
